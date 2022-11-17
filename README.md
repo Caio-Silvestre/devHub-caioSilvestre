@@ -1,4 +1,4 @@
-PRÉVIA DO PROHJETO -> https://dev-hub-csd.vercel.app/
+PRÉVIA DO PROJETO -> https://dev-hub-csd.vercel.app/
 
 
 # Getting Started with Create React App
